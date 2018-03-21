@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FirstAndroidDemo</string>
+    <string name="myTextVal">Result Will be displayed Here !!!</string>
+</resources>
